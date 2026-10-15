@@ -1,0 +1,7 @@
+Real-World-Dataset-Analysis/
+├── data/
+│   └── raw/
+├── notebooks/
+│   └── 01_ecommerce_analysis.ipynb
+├── README.md
+└── requirements.txt
